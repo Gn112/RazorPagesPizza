@@ -1,2 +1,2 @@
 # RazorPagesPizza
- web aplication with Razor
+Aplicação web com Razor
